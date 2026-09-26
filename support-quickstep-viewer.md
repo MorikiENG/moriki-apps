@@ -2,7 +2,7 @@
 
 QuickSTEP Viewerをご利用いただきありがとうございます。
 
-QuickSTEP Viewerは、STEP / STP形式の3D CADデータをiPhone・iPadで手軽に確認できる3Dビューアです。
+QuickSTEP Viewerは、STEP / STP形式の3D CADデータをiPhoneで手軽に確認できる3Dビューアです。
 
 ## 主な機能
 
