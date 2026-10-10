@@ -19,7 +19,7 @@ QuickSTEP Viewerは、STEP / STP形式の3D CADデータをiPhoneで手軽に確
 
 不具合のご報告、ご意見、ご要望などがございましたら、下記までお問い合わせください。
 
-メール：moriki@gmail.com
+メール：moriki.engineering@gmail.com
 
 ## プライバシーポリシー
 
