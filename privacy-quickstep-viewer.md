@@ -67,4 +67,4 @@ ATTを許可しない場合でも、広告識別子（IDFA）を使用しない�
 
 本アプリの開発者
 
-お問い合わせ先：r.t0808@me.com
+お問い合わせ先：moriki.engineering@gmail.com

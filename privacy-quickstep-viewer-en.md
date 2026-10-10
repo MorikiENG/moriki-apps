@@ -67,4 +67,4 @@ For inquiries about the App or this policy, please contact:
 
 The App developer
 
-Contact: r.t0808@me.com
+Contact: moriki.engineering@gmail.com
