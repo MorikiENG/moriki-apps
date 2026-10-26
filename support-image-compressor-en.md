@@ -2,6 +2,7 @@
 layout: null
 permalink: /support-image-compressor-en.html
 ---
+{::nomarkdown}
 <!doctype html>
 <html lang="en">
 <head>
@@ -32,3 +33,4 @@ permalink: /support-image-compressor-en.html
 <footer><span class="footer-brand">Moriki Engineering</span><a href="https://morikieng.github.io/en/">Moriki Engineering official website ↗</a><small>© 2026 Ryo Tazaki</small></footer>
 </body>
 </html>
+{:/nomarkdown}
